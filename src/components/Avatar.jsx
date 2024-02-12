@@ -176,3 +176,7 @@ return ()=> actions[animation].fadeOut(0.5)
 }
 
 useGLTF.preload("/SalimTalk.glb");
+   useFBX.preload("/animations/idle.fbx")
+  useFBX.preload("/animations/hello.fbx")
+   useFBX.preload("/animations/Talking.fbx")
+   useFBX.preload("/animations/second-Idle.fbx")

@@ -18,3 +18,5 @@ export const Experience = () => {
     </>
   );
 };
+
+useTexture.preload("textures/bg.jpg")
